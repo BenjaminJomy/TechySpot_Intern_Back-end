@@ -1,1 +1,1 @@
-DATABASE_URL = "sqlite:///school.db"
+
